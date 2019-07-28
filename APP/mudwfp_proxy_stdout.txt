@@ -1,0 +1,259 @@
+#      0.00 mudwfp [INFO] mudwfp_proxy started.
+#     60.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#     60.03 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    120.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    120.07 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    180.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    180.10 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    240.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    240.14 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    300.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    300.16 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    360.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    360.20 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    420.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    420.23 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    480.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    480.26 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    540.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    540.30 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    600.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    600.33 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    660.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    660.36 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    720.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    720.39 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    780.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    780.42 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    840.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    840.45 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    900.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    900.48 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    960.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    960.51 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    1020.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    1020.54 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    1080.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    1080.57 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    1140.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    1140.60 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    1200.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    1200.63 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    1260.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    1260.66 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    1320.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    1320.69 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    1380.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    1380.73 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    1440.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    1440.76 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    1500.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    1500.78 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    1560.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    1560.81 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    1620.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    1620.85 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    1680.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    1680.88 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    1740.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    1740.92 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    1800.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    1800.95 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    1860.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    1860.98 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    1920.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    1921.01 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    1980.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    1981.04 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    2040.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    2041.07 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    2100.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    2101.10 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    2160.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    2161.12 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    2220.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    2221.15 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    2280.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    2281.18 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    2340.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    2341.22 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    2400.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    2401.25 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    2460.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    2461.28 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    2520.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    2521.32 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    2580.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    2581.35 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    2640.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    2641.38 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    2700.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    2701.41 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    2760.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    2761.44 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    2820.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    2821.47 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    2880.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    2881.49 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    2940.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    2941.53 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    3000.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    3001.56 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    3060.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    3061.59 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    3120.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    3121.62 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    3180.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    3181.65 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    3240.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    3241.68 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    3300.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    3301.72 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    3360.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    3361.75 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    3420.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    3421.78 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    3480.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    3481.81 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    3540.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    3541.84 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    3600.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    3601.87 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    3660.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    3661.90 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    3720.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    3721.93 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    3780.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    3781.96 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    3840.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    3841.98 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    3900.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    3902.02 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    3960.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    3962.05 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    4020.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    4022.08 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    4080.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    4082.12 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    4140.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    4142.15 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    4200.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    4202.18 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    4260.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    4262.20 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    4320.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    4322.23 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    4380.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    4382.27 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    4440.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    4442.30 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    4500.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    4502.33 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    4560.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    4562.36 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    4620.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    4622.39 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    4680.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    4682.42 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    4740.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    4742.46 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    4800.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    4802.49 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    4860.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    4862.52 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    4920.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    4922.54 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    4980.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    4982.58 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    5040.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    5042.61 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    5100.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    5102.64 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    5160.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    5162.68 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    5220.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    5222.71 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    5280.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    5282.74 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    5340.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    5342.77 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    5400.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    5402.81 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    5460.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    5462.84 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    5520.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    5522.87 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    5580.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    5582.90 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    5640.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    5642.93 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    5700.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    5702.96 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    5760.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    5762.99 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    5820.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    5823.03 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    5880.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    5883.06 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    5940.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    5943.09 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    6000.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    6003.12 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    6060.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    6063.15 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    6120.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    6123.19 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    6180.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    6183.22 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    6240.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    6243.26 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    6300.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    6303.28 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    6360.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    6363.32 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    6420.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    6423.35 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    6480.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    6483.38 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    6540.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    6543.42 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    6600.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    6603.45 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    6660.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    6663.48 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    6720.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    6723.51 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    6780.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    6783.55 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    6840.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    6843.58 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    6900.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    6903.61 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    6960.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    6963.65 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    7020.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    7023.68 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    7080.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    7083.71 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    7140.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    7143.74 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    7200.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    7203.77 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    7260.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    7263.79 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    7320.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    7323.83 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    7380.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    7383.86 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    7440.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    7443.89 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    7500.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    7503.93 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    7560.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    7563.96 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    7620.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    7623.99 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    7680.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    7684.02 mudwfp [INFO] udp_proxy stat: n_sess 0
+#    7740.00 mudwfp [INFO] tcp_proxy stat: n_eps 1 n_sess 0
+#    7744.05 mudwfp [INFO] udp_proxy stat: n_sess 0

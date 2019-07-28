@@ -1,0 +1,126 @@
+[0.004000] [INFO] mudfish v4.6.1 (for x86_64)
+[0.006001] [INFO] Timestamp: Mon Jul 29 01:46:05 2019
+
+[0.006999] [INFO] Connection protocol: udp
+[0.006999] [INFO] Authenticating...
+[0.059000] [INFO] Fetching the static nodes...
+[0.524001] [INFO] Fetched 400 static nodes from the master.
+[0.538000] [INFO] TAP-Win32 Driver GUID {559D3AD7-0FF8-43A7-B83C-779146AD15BE}
+[0.538000] [INFO] TAP-Win32 Driver Version 9.9 
+[0.538999] [INFO] TAP-Win32 Driver MTU 1500
+[0.538999] [INFO] Setting TAP-Win32 Adapter v9's MTU to 1450
+»Æ¿Œµ 
+
+[0.663000] [INFO] TAP-Win32 Driver TcpNoDelay diabled
+[0.664000] [INFO] TAP-Win32 Driver TcpAckFrequency 1
+[0.664000] [INFO] TAP-Win32 Driver TCPNoDelay 1
+[0.687002] [INFO] Ready
+[0.848001] [INFO] Listening the management console at 127.0.0.1:50691
+[1.757001] [INFO] Waiting until the client's ready to handle the routing path list.
+[3.549001] [INFO] DHCP request for 00:ff:55:9d:3a:d7 (DESKTOP-NBR3S8P) from interface
+[3.618001] [INFO] DHCP discover for 00:ff:55:9d:3a:d7 (DESKTOP-NBR3S8P) from interface
+[3.626000] [INFO] DHCP request for 00:ff:55:9d:3a:d7 (DESKTOP-NBR3S8P) from interface
+[3.627002] [INFO] DHCP Client got IPv4 address now
+[4.759001] [INFO] MFP     0 FlowMTU      - 14.63.214.216 1500
+[4.759001] [INFO] MFP     0 RouteAdd     - 104.160.128.0 255.255.224.0 4 26108 0 n
+[4.760002] [INFO] Fetching new static node SID 4...
+[4.777001] [INFO] re1: Associating with ip 34.85.70.53 port 10008
+[4.778000] [INFO] re1: Connected to 34.85.70.53:10008 (UDP)
+[4.778000] [INFO] MFP     0 RouteAdd     - 172.105.228.0 255.255.255.0 112 105 0 n
+[4.779000] [INFO] Fetching new static node SID 112...
+[4.799000] [INFO] re58: Associating with ip 133.130.106.54 port 10008
+[4.800002] [INFO] re58: Connected to 133.130.106.54:10008 (UDP)
+[4.801003] [INFO] MFP     0 RouteAdd     - 43.229.64.0 255.255.255.0 4 26108 0 n
+[5.307000] [INFO] MFP     0 RouteAdd     - 104.18.97.0 255.255.255.0 4 26108 0 n
+[5.307000] [INFO] MFP     0 RouteAdd     - 104.18.96.0 255.255.255.0 4 26108 0 n
+[5.308003] [INFO] MFP     0 RouteAdd     - 104.18.24.0 255.255.255.0 4 26108 0 n
+[5.309001] [INFO] MFP     0 RouteAdd     - 104.18.25.0 255.255.255.0 4 26108 0 n
+[5.310003] [INFO] MFP     0 RouteAdd     - 104.16.119.0 255.255.255.0 4 26108 0 n
+[5.311003] [INFO] MFP     0 RouteAdd     - 104.16.120.0 255.255.255.0 4 26108 0 n
+[5.311003] [INFO] MFP     0 RouteAdd     - 104.17.166.0 255.255.255.0 4 26108 0 n
+[5.312002] [INFO] MFP     0 RouteAdd     - 104.17.165.0 255.255.255.0 4 26108 0 n
+[5.313002] [INFO] MFP     0 RouteAdd     - 172.65.195.0 255.255.255.0 4 26108 0 n
+[5.313002] [INFO] MFP     0 RouteAdd     - 104.17.155.0 255.255.255.0 4 26108 0 n
+[5.314002] [INFO] MFP     0 RouteAdd     - 104.17.154.0 255.255.255.0 4 26108 0 n
+[5.315001] [INFO] MFP     0 RouteAdd     - 99.86.206.0 255.255.255.0 4 26108 0 n
+[5.315001] [INFO] MFP     0 RouteAdd     - 54.70.138.0 255.255.255.0 4 26108 0 n
+[5.316002] [INFO] MFP     0 RouteAdd     - 34.208.110.0 255.255.255.0 4 26108 0 n
+[5.317001] [INFO] MFP     0 RouteAdd     - 34.211.62.0 255.255.255.0 4 26108 0 n
+[5.317001] [INFO] MFP     0 RouteAdd     - 34.215.8.0 255.255.255.0 4 26108 0 n
+[5.318002] [INFO] MFP     0 RouteAdd     - 52.26.73.0 255.255.255.0 4 26108 0 n
+[5.319002] [INFO] MFP     0 RouteAdd     - 54.148.239.0 255.255.255.0 4 26108 0 n
+[5.319002] [INFO] MFP     0 RouteAdd     - 52.40.71.0 255.255.255.0 4 26108 0 n
+[5.320001] [INFO] MFP     0 RouteAdd     - 34.211.212.0 255.255.255.0 4 26108 0 n
+[5.321002] [INFO] MFP     0 RouteAdd     - 104.16.199.0 255.255.255.0 4 26108 0 n
+[5.321002] [INFO] MFP     0 RouteAdd     - 104.16.198.0 255.255.255.0 4 26108 0 n
+[5.322002] [INFO] MFP     0 RouteAdd     - 23.49.148.0 255.255.255.0 4 26108 0 n
+[5.322002] [INFO] MFP     0 RouteAdd     - 104.17.48.0 255.255.255.0 4 26108 0 n
+[5.323002] [INFO] MFP     0 RouteAdd     - 104.17.49.0 255.255.255.0 4 26108 0 n
+[5.324002] [INFO] MFP     0 RouteAdd     - 182.162.107.0 255.255.255.0 4 26108 0 n
+[5.324002] [INFO] MFP     0 RouteAdd     - 211.237.6.0 255.255.255.0 4 26108 0 n
+[5.325002] [INFO] MFP     0 RouteAdd     - 182.162.108.0 255.255.255.0 4 26108 0 n
+[5.326002] [INFO] MFP     0 RouteAdd     - 104.17.190.0 255.255.255.0 4 26108 0 n
+[5.326002] [INFO] MFP     0 RouteAdd     - 104.17.189.0 255.255.255.0 4 26108 0 n
+[5.327002] [INFO] MFP     0 RouteAdd     - 104.17.142.0 255.255.255.0 4 26108 0 n
+[5.328002] [INFO] MFP     0 RouteAdd     - 104.17.143.0 255.255.255.0 4 26108 0 n
+[5.328002] [INFO] MFP     0 RouteAdd     - 119.207.64.0 255.255.255.0 4 26108 0 n
+[5.329001] [INFO] MFP     0 RouteAdd     - 104.16.72.0 255.255.255.0 4 26108 0 n
+[5.330002] [INFO] MFP     0 RouteAdd     - 104.16.71.0 255.255.255.0 4 26108 0 n
+[5.330002] [INFO] MFP     0 RouteAdd     - 23.49.156.0 255.255.255.0 4 26108 0 n
+[5.331002] [INFO] MFP     0 RouteAdd     - 89.187.190.0 255.255.255.0 4 26108 0 n
+[5.332001] [INFO] MFP     0 RouteAdd     - 104.16.34.0 255.255.255.0 4 26108 0 n
+[5.332001] [INFO] MFP     0 RouteAdd     - 104.16.35.0 255.255.255.0 4 26108 0 n
+[5.333001] [INFO] MFP     0 RouteAdd     - 104.16.36.0 255.255.255.0 4 26108 0 n
+[5.334002] [INFO] MFP     0 RouteAdd     - 104.16.37.0 255.255.255.0 4 26108 0 n
+[5.334002] [INFO] MFP     0 RouteAdd     - 104.16.33.0 255.255.255.0 4 26108 0 n
+[5.335002] [INFO] MFP     0 RouteAdd     - 54.199.196.0 255.255.255.0 4 26108 0 n
+[5.335002] [INFO] MFP     0 RouteAdd     - 52.198.172.0 255.255.255.0 4 26108 0 n
+[5.336002] [INFO] MFP     0 RouteAdd     - 104.16.138.0 255.255.255.0 4 26108 0 n
+[5.337001] [INFO] MFP     0 RouteAdd     - 104.16.139.0 255.255.255.0 4 26108 0 n
+[5.337001] [INFO] MFP     0 RouteAdd     - 104.160.154.0 255.255.255.0 4 26108 0 n
+[5.338002] [INFO] MFP     0 RouteAdd     - 54.187.63.0 255.255.255.0 4 26108 0 n
+[5.339002] [INFO] MFP     0 RouteAdd     - 52.42.242.0 255.255.255.0 4 26108 0 n
+[5.339002] [INFO] MFP     0 RouteAdd     - 52.219.88.0 255.255.255.0 4 26108 0 n
+[5.340002] [INFO] MFP     0 RouteAdd     - 23.200.75.0 255.255.255.0 4 26108 0 n
+[5.340002] [INFO] MFP     0 RouteAdd     - 72.246.103.0 255.255.255.0 4 26108 0 n
+[5.341002] [INFO] MFP     0 RouteAdd     - 151.101.109.0 255.255.255.0 4 26108 0 n
+[5.342002] [INFO] MFP     0 RouteAdd     - 104.16.44.0 255.255.255.0 4 26108 0 n
+[5.342002] [INFO] MFP     0 RouteAdd     - 104.16.43.0 255.255.255.0 4 26108 0 n
+[5.343003] [INFO] MFP     0 RouteAdd     - 54.201.76.0 255.255.255.0 4 26108 0 n
+[5.344001] [INFO] MFP     0 RouteAdd     - 54.71.1.0 255.255.255.0 4 26108 0 n
+[25.845514] [INFO] MFP     0 RouteAdd     - 52.13.192.0 255.255.255.0 4 26108 0 n
+[25.845514] [INFO] MFP     0 RouteAdd     - 52.26.219.0 255.255.255.0 4 26108 0 n
+[25.846514] [INFO] MFP     0 RouteAdd     - 35.160.113.0 255.255.255.0 4 26108 0 n
+[25.847514] [INFO] MFP     0 RouteAdd     - 34.216.47.0 255.255.255.0 4 26108 0 n
+[25.847514] [INFO] MFP     0 RouteAdd     - 52.219.80.0 255.255.255.0 4 26108 0 n
+[25.848514] [INFO] MFP     0 RouteAdd     - 175.207.14.0 255.255.255.0 4 26108 0 n
+[25.849514] [INFO] MFP     0 RouteAdd     - 220.90.198.0 255.255.255.0 4 26108 0 n
+[25.850516] [INFO] MFP     0 RouteAdd     - 151.101.229.0 255.255.255.0 4 26108 0 n
+[51.101513] [INFO] MFP     0 RouteAdd     - 31.3.2.0 255.255.255.0 4 26108 0 n
+[51.102516] [INFO] MFP     0 RouteAdd     - 52.219.100.0 255.255.255.0 4 26108 0 n
+[101.916512] [INFO] MFP     0 RouteAdd     - 52.219.104.0 255.255.255.0 4 26108 0 n
+[127.169513] [INFO] MFP     0 RouteAdd     - 52.219.84.0 255.255.255.0 4 26108 0 n
+[177.881421] [INFO] MFP     0 RouteAdd     - 104.74.160.0 255.255.255.0 4 26108 0 n
+[203.139421] [INFO] MFP     0 RouteAdd     - 52.42.134.0 255.255.255.0 4 26108 0 n
+[203.139421] [INFO] MFP     0 RouteAdd     - 54.148.249.0 255.255.255.0 4 26108 0 n
+[203.141422] [INFO] MFP     0 RouteAdd     - 52.43.255.0 255.255.255.0 4 26108 0 n
+[203.142425] [INFO] MFP     0 RouteAdd     - 52.41.121.0 255.255.255.0 4 26108 0 n
+[203.143421] [INFO] MFP     0 RouteAdd     - 52.40.32.0 255.255.255.0 4 26108 0 n
+[203.144423] [INFO] MFP     0 RouteAdd     - 54.148.67.0 255.255.255.0 4 26108 0 n
+[203.146420] [INFO] MFP     0 RouteAdd     - 54.149.132.0 255.255.255.0 4 26108 0 n
+[203.147423] [INFO] MFP     0 RouteAdd     - 52.41.141.0 255.255.255.0 4 26108 0 n
+[229.308420] [INFO] MFP     0 RouteAdd     - 23.57.66.0 255.255.255.0 4 26108 0 n
+[229.309424] [INFO] MFP     0 RouteAdd     - 151.101.1.0 255.255.255.0 4 26108 0 n
+[229.310422] [INFO] MFP     0 RouteAdd     - 151.101.65.0 255.255.255.0 4 26108 0 n
+[229.311420] [INFO] MFP     0 RouteAdd     - 151.101.129.0 255.255.255.0 4 26108 0 n
+[229.312421] [INFO] MFP     0 RouteAdd     - 151.101.193.0 255.255.255.0 4 26108 0 n
+[330.768496] [INFO] MFP     0 RouteAdd     - 54.149.232.0 255.255.255.0 4 26108 0 n
+[406.760012] [INFO] MFP     0 RouteAdd     - 52.219.96.0 255.255.255.0 4 26108 0 n
+[584.720662] [INFO] MFP     0 RouteAdd     - 52.32.52.0 255.255.255.0 4 26108 0 n
+[584.720662] [INFO] MFP     0 RouteAdd     - 52.38.119.0 255.255.255.0 4 26108 0 n
+[584.721664] [INFO] MFP     0 RouteAdd     - 52.38.255.0 255.255.255.0 4 26108 0 n
+[1447.732777] [INFO] MFP     0 RouteAdd     - 205.185.216.0 255.255.255.0 4 26108 0 n
+[1802.434988] [INFO] MFP     0 RouteAdd     - 104.74.150.0 255.255.255.0 4 26108 0 n
+[1802.434988] [INFO] MFP     0 RouteAdd     - 23.53.228.0 255.255.255.0 4 26108 0 n
+[2107.150071] [INFO] MFP     0 RouteAdd     - 13.225.115.0 255.255.255.0 4 26108 0 n
+[4441.554217] [INFO] MFP     0 RouteAdd     - 54.192.173.0 255.255.255.0 4 26108 0 n
